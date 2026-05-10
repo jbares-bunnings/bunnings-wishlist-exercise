@@ -1,0 +1,61 @@
+{
+  "data": {
+    "results": [
+      {
+        "title": "Craftright 8oz/ 226g Steel Claw Hammer",
+        "uri": "https://www.AU5660292",
+        "raw": {
+          "title": "Craftright 8oz/ 226g Steel Claw Hammer",
+          "thumbnailimageurl": "/bunnings-media/api/public/content/c50ed94688244a1fae15659adca15e8e?v=7328603b",
+          "price": 4.98,
+          "productroutingurl": "/craftright-8oz-226g-steel-claw-hammer_p5660292",
+          "code": "5660292"
+        }
+      },
+      {
+        "title": "Craftright 20oz Solid Claw hammer",
+        "uri": "https://www.AU0095320",
+        "raw": {
+          "title": "Craftright 20oz Solid Claw hammer",
+          "thumbnailimageurl": "/bunnings-media/api/public/content/e14cd45fc67a48f48b98aa27b4bc9c85?v=909263ff",
+          "price": 7.98,
+          "productroutingurl": "/craftright-20oz-solid-claw-hammer_p0095320",
+          "code": "0095320"
+        }
+      },
+      {
+        "title": "Kincrome 24oz Deadblow Hammer",
+        "uri": "https://www.AU5560272",
+        "raw": {
+          "title": "Kincrome 24oz Deadblow Hammer",
+          "thumbnailimageurl": "/bunnings-media/api/public/content/c16d9495b19d460fbb25608adfad25fb?v=2c20f229",
+          "price": 31.95,
+          "productroutingurl": "/kincrome-24oz-deadblow-hammer_p5560272",
+          "code": "5560272"
+        }
+      },
+      {
+        "title": "Trojan 16oz/1lb Deadblow Hammer",
+        "uri": "https://www.AU0492160",
+        "raw": {
+          "title": "Trojan 16oz/1lb Deadblow Hammer",
+          "thumbnailimageurl": "/bunnings-media/api/public/content/19d5c873c1ff4069b941b4a6671e9232?v=60452bc6",
+          "price": 14.98,
+          "productroutingurl": "/trojan-16oz-1lb-deadblow-hammer_p0492160",
+          "code": "0492160"
+        }
+      },
+      {
+        "title": "IRWIN 20oz Steel Hammer",
+        "uri": "https://www.AU0065670",
+        "raw": {
+          "title": "IRWIN 20oz Steel Hammer",
+          "thumbnailimageurl": "/bunnings-media/api/public/content/f9011e19ebf147f49e256124114ea62e?v=f967185c",
+          "price": 39.98,
+          "productroutingurl": "/irwin-20oz-steel-hammer_p0065670",
+          "code": "0065670"
+        }
+      }
+    ]
+  }
+}
